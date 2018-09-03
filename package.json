@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "@types/pouchdb": "^6.3.2",
-    "electron": "1.8.4",
+    "electron": "^2.0.8",
     "electron-builder": "^20.8.1",
     "electron-webpack": "^2.0.1",
     "electron-webpack-ts": "^2.0.1",
